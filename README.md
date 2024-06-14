@@ -1,3 +1,3 @@
-# RP_Website
+# Research Project Website
 
 Harmonize website
